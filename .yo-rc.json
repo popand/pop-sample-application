@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "popSampleApplication",
+    "packageName": "io.github.pop.application",
+    "packageFolder": "io/github/pop/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "hy",
+      "ca",
+      "en",
+      "et"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.0",
+    "jwtSecretKey": "YzZiMDViMDAyZDc1ZTdiNGUxZjVmZGRmZmY3YWFjODU5OTAxNGFkZTMxM2U2MTEyOWJlOTc2NDJkOWI0NDBhY2FlZmViMzdjNjQ4YjBjYTUyZjQzZjY5YzU2NzA0MmUxMDk1YjI1ZTVkMTRhOTJjY2I5MWEyYjlmMWY3ODM4MWI=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "popand",
+  "repository-name": "pop-sample-application"
+}
