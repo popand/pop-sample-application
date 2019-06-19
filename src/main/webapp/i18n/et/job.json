@@ -1,0 +1,27 @@
+{
+  "popSampleApplicationApp": {
+    "job": {
+      "home": {
+        "title": "Jobs",
+        "createLabel": "Lisa uus Job",
+        "createOrEditLabel": "Lisa või muuda Job",
+        "search": "Otsi Job",
+        "notFound": "No Job found"
+      },
+      "created": "Uus Job on loodud identifikaatoriga {{ param }}",
+      "updated": "Job identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Job identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Job {{ id }}?"
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "employee": "Employee",
+      "task": "Task"
+    }
+  }
+}
